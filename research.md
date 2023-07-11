@@ -1,6 +1,6 @@
 # Research experiences <a name="RE"></a>
 
-+ **Solving an NP problem by means of Quantum Optics**
++ **Solving an NNP problem by means of Quantum Optics**
   School of ECE, Purdue University(Online) (December 2022 – June 2023(expected))
   - Introduction:The project plan aims to tackle some typical NP problems (such as the MAX-CUT problem) by utilizing optical
     parametric oscillators (OPOs) or OPO networks. The proposed approach involves abstracting the target problem as an Ising
