@@ -26,8 +26,6 @@ layout: default
 
 Welcome to my personal website! I am Shuo Geng, currently a junior undergraduate student at Lanzhou University, majoring in physics and will receive my Bachelor of Science degree in the fall semester of 2024. I have been actively involved in research projects, primarily in the field of **non linear physics, condensed matter physics and quantum computation**. I have also taken a diverse range of courses in physics, optics, computers, and mathematics, and have been privileged to serve as a teaching assistant for some courses.
 
-Since May of this year, I have been actively involved in a research project on **Photoacoustic Imaging** under the guidance of Professor [Fei Gao](https://scholar.google.com.sg/citations?user=aDTizY8AAAAJ) at [HISLAB](http://www.hislab.cn/), ShanghaiTech University.
-
 For more detailed information about my academic and research experiences, please refer to the [Education](#Education), [Research](#RE), and [Teaching Assistantship](#TA) sections of this website. Alternatively, you can also view my [CV](./CV/CV_ZhipingWang_May.pdf). for a summary of my achievements.
 
 * * *
@@ -38,9 +36,9 @@ non linear physics and complex system, condensed matter physics and quantum comp
          
  In more specific terms, what particularly captivates my interest these fields is:
  
-+ **Complex systems **
-+ **Tensor caculations **
-+ **Quantum Computing, Dynamics **         
++ **Complex systems**
++ **Tensor caculations**
++ **Quantum Computing, Dynamics**         
 
 ### Hobbies:
 Badminton, debate
@@ -55,6 +53,8 @@ Badminton, debate
 + GPA:91.3/100
 + Ranking:2/21 in Physics Base Class(theoretical physics)
 + **Major courses**:Linear Algebra, Computational Physics, Mechanics, Quantum Mechanics, Method of Mathematical Physics, Thermotics, Electromagnetism, Solid-State Physics, Group theory, Nonlinear physics and complex systems, Scientific Reearch Training, Artificial Intelligence, Data Structure
+
+
 * * *
 # Honors and Awards　<a name="HA"></a>
 + **Gold Award in the Industry Proposition Track at the 7th China International 'Internet+' College Students Innovation and Entrepreneurship Competition - Gansu Provincial Division**
@@ -74,8 +74,7 @@ Badminton, debate
 
 Teaching Assistant (September 2022 – January 2023)
 
-- Reviewed and graded student assignments, provided constructive feedback to students, and helped teachers with
-ongoing evaluation.
+- Reviewed and graded student assignments, provided constructive feedback to students, and helped teachers with ongoing evaluation.
 
 - Assisted students with course material and answered questions during regular office hours I held or in the class.
 
@@ -83,8 +82,7 @@ ongoing evaluation.
 
 Teaching Assistant (September 2022 – January 2023)
 
-- Reviewed and graded student assignments, provided constructive feedback to students, and helped teachers with
-ongoing evaluation.
+- Reviewed and graded student assignments, provided constructive feedback to students, and helped teachers with ongoing evaluation.
 
 - Assisted students with course material and answered questions during regular office hours I held or in the class.
 
@@ -115,7 +113,7 @@ ongoing evaluation.
 # Research experiences <a name="RE"></a>
 The listed content here is just a partial enumeration of experiences. If you would like to learn more details, please click [here](./research.md).
   
-+ **Based on Kunpeng full-stack software and hardware platform technology, explore creative products that apply technology to specific industry scenarios** (tentative)
++ **Based on Kunpeng full-stack software and hardware platform technology, explore creative products that apply technology to specific industry scenarios** 
 
 Specific research content: Based on Kunpeng software and hardware, such as Kunpeng 920 CPU, code migration toolkit, Huawei MindSpore compiler, and performance tuning tools, the molecular dynamics application software GROMACS and LAMMPS will be ported and optimized. This aims to provide reliable computing solutions for the Kunpeng full-stack computing architecture in the fields of materials and drug design.
 
@@ -154,12 +152,8 @@ Utilized the Density Matrix Renormalization Group (DMRG) algorithm to compute th
 
 # Get in Touch
 
-If you want to get in touch, you can reach me at any time via <w17611688963@gmail.com> or <zhpwang20@lzu.edu.cn>.
+If you want to get in touch, you can reach me at any time via <gengsh20@lzu.edu.cn>.
 
-On the internet, there are also some other places where you can find me, especially about non-academic daily life, including but not limited to:
-+ [bilibili](https://space.bilibili.com/15823831)
-
-But only the mail(<w17611688963@gmail.com>) is a reliable way to find me in time
     
 
     
